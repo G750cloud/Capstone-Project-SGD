@@ -6,12 +6,12 @@ Thanks!
 
 My final report: Stochastic Gradient Descent and Application is here:
 
--[Final].(Stochastic_Gradient_Descent_and_Applications.pdf)
+-[Final](Stochastic_Gradient_Descent_and_Applications.pdf)
 
 The codes for calculating the minimizer of 1-dimension and 2- dimension funcitions in final report section 4 are here:
 
--[Calculating_Minimizers].(HW2 Apply GD and NGD to find 1-dimension and 2-dimension funtions' minimizer.ipynb)
+-[Calculating_Minimizers](HW2 Apply GD and NGD to find 1-dimension and 2-dimension funtions' minimizer.ipynb)
 
 The codes for calculating implied volatilities of AAPL pull options in final report section 5 are here:
 
--[Final_Report_Code_Calculating_Implied_volatility].(Final_Report_Code_Calculating_Implied_volatility.ipynb)
+-[Final_Report_Code_Calculating_Implied_volatility](Final_Report_Code_Calculating_Implied_volatility.ipynb)
