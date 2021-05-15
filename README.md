@@ -15,3 +15,13 @@ The codes for calculating the minimizer of 1-dimension and 2- dimension funcitio
 The codes for calculating implied volatilities of AAPL pull options in final report section 5 are here:
 
 -[Final Report Code Calculating Implied volatility](Final_Report_Code_Calculating_Implied_volatility.ipynb)
+
+Professor Song Links:
+
+[Song](https://github.com/songqsh)
+
+Classmates Links:
+
+[Yuning](https://github.com/Bertha-ding/20MA573-yuning-ding)
+
+[Jungang](https://github.com/Jun-629/20MA573)
