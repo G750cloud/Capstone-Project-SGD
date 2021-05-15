@@ -6,7 +6,7 @@ Thanks!
 
 My final report: Stochastic Gradient Descent and Application is here:
 
--[Final].(Final Report Stochastic Gradient Decent and Applications.pdf)
+-[Final].(Stochastic_Gradient_Descent_and_Applications.pdf)
 
 The codes for calculating the minimizer of 1-dimension and 2- dimension funcitions in final report section 4 are here:
 
