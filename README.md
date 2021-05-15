@@ -5,10 +5,13 @@ Hello,Professor and classmates, here is my tasks we disscussed in classes. If yo
 Thanks!
 
 My final report: Stochastic Gradient Descent and Application is here:
+
 -[Final].(Final Report Stochastic Gradient Decent and Applications .pdf)
 
 The codes for calculating the minimizer of 1-dimension and 2- dimension funcitions in final report section 4 are here:
+
 -[Calculating Minimizers].(HW2 Apply GD and NGD to find 1-dimension and 2-dimension funtions' minimizer.ipynb)
 
 The codes for calculating implied volatilities of AAPL pull options in final report section 5 are here:
+
 -[Calculating implied volatilities].(Final Report Code -Calculating Implied volatility.ipynb)
